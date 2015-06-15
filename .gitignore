@@ -1,0 +1,14 @@
+*~
+.fuse_hidden*
+*.aux
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.old
+*.toc
+*.zip
+*.out
